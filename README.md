@@ -1,107 +1,34 @@
-Hi 👋 I'm Rishit
+<h1 align="center">Hi 👋, I'm Rishit Sinha</h1>
+<h3 align="center">A passionate fullstack developer from India</h3>
 
-Artificial Intelligence & Data Science Student | Full-Stack Developer | AI Builder
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ramesh1234-ai&label=Profile%20views&color=0e75b6&style=flat" alt="ramesh1234-ai" /> </p>
 
-LinkedIn
- • GitHub
- • Email
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ramesh1234-ai" alt="ramesh1234-ai" /></a> </p>
 
-💫 About Me
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-I'm a B.Tech AI & Data Science student (Class of 2027) passionate about building scalable web applications and AI-powered tools that solve real-world problems.
+- 🔭 I’m currently working on [BrokTok](https://financial-autopsy.vercel.app)
 
-🎯 I build full-stack platforms, analytics dashboards, and AI-powered tools
-🌱 Experience in full-stack development, automation, and intelligent systems
-💡 Passionate about building impactful, user-friendly technology
-🚀 Constantly learning and improving through real-world projects
-📫 Reach me at: your-email@example.com
+- 🌱 I’m currently learning **React,Flask**
 
-🏆 Highlights
+- 👨‍💻 All of my projects are available at [https://stone-age-dev.vercel.app/](https://stone-age-dev.vercel.app/)
 
-🥇 Built multiple production-level full-stack & AI projects
-🚀 Developed analytics dashboards & automation systems
-👥 Experience building scalable apps & structured backend systems
-💡 Strong focus on performance, usability & clean architecture
+- 💬 Ask me about **react and Frontend Framework**
 
-💻 Tech Stack
-Languages
+- 📫 How to reach me **rs9379842@gmail.com**
 
-Python • JavaScript • Java • C • SQL
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/rishit-sinha-6953ab363/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rishit-sinha-6953ab363/" height="30" width="40" /></a>
+<a href="https://kaggle.com/https://www.kaggle.com/rishitsinha45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/rishitsinha45" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/rizz4566" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rizz4566" height="30" width="40" /></a>
+</p>
 
-Frontend
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-HTML5 • CSS3 • React.js • Next.js • Tailwind CSS
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ramesh1234-ai&show_icons=true&locale=en&layout=compact" alt="ramesh1234-ai" /></p>
 
-Backend
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ramesh1234-ai&show_icons=true&locale=en" alt="ramesh1234-ai" /></p>
 
-Flask • Django • REST APIs • Authentication Systems
-
-Databases
-
-MySQL • PostgreSQL
-
-AI & Data
-
-LangChain • OpenAI API • Data Processing • Analytics Pipelines
-
-Tools & Technologies
-
-Git • GitHub • Docker (learning) • Linux • Postman
-Deployment: Vercel • Render • Railway
-
-Methodologies
-
-Agile • Modular Architecture • Clean Code Principles
-
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=shadowblades746&show_icons=true" height="165"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=shadowblades746" height="165"> </p>
-🌟 Featured Projects
-🔹 AI Project Tracker & Analytics Dashboard
-
-✔ Automated data extraction & analytics
-✔ Interactive dashboard & insights
-✔ AI-powered recommendations
-
-Tech: React, Flask, MySQL, AI APIs
-
-🔹 Gamified Mental Wellness Tracker
-
-✔ Habit & mood analytics with gamification
-✔ Visual dashboards & progress tracking
-
-Tech: HTML, CSS, JavaScript, Flask
-
-🔹 Sintra — Video Sharing Platform
-
-✔ Authentication & video uploads
-✔ Search, notifications & modular UI
-
-Tech: React, Flask, REST APIs
-
-🔹 Social Media Platform (Flask)
-
-✔ Secure login & user profiles
-✔ Dynamic content & backend architecture
-
-🧠 Currently Learning
-
-Advanced React & Next.js architecture
-
-Scalable system design
-
-Docker & DevOps workflows
-
-AI agents & automation systems
-
-🎯 Career Focus
-
-✔ Full-Stack Development
-✔ AI-Powered Applications
-✔ Scalable System Design
-✔ Developer Tools & Automation
-
-🤝 Open to Opportunities
-
-💼 Internships & developer roles
-🤝 Collaborations & open-source projects
-🚀 Innovative tech projects
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ramesh1234-ai&" alt="ramesh1234-ai" /></p>
