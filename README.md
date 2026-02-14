@@ -1,71 +1,107 @@
-# Ramesh1234-ai
-👋 Hi, I'm Rishit
-🎓 B.Tech (AI & Data Science) | Class of 2027
-💼 Full Stack Developer | AI Application Builder
-🚀 Building scalable web apps & intelligent tools
-📍 India
-📫 Open to internships & developer roles
-🚀 Professional Summary
-Results-driven developer specializing in full-stack web development and AI-powered applications.s
-✔ Develop analytics dashboards & automation tools
-✔ Strong focus on performance, usability & clean architecture
-💡 Passionate about solving real problems with technology.
-🛠️ Technical Skills
-💻 Programming Languages
-Python • JavaScript • Java • C
-🌐 Frontend Development
+Hi 👋 I'm Rishit
+
+Artificial Intelligence & Data Science Student | Full-Stack Developer | AI Builder
+
+LinkedIn
+ • GitHub
+ • Email
+
+💫 About Me
+
+I'm a B.Tech AI & Data Science student (Class of 2027) passionate about building scalable web applications and AI-powered tools that solve real-world problems.
+
+🎯 I build full-stack platforms, analytics dashboards, and AI-powered tools
+🌱 Experience in full-stack development, automation, and intelligent systems
+💡 Passionate about building impactful, user-friendly technology
+🚀 Constantly learning and improving through real-world projects
+📫 Reach me at: your-email@example.com
+
+🏆 Highlights
+
+🥇 Built multiple production-level full-stack & AI projects
+🚀 Developed analytics dashboards & automation systems
+👥 Experience building scalable apps & structured backend systems
+💡 Strong focus on performance, usability & clean architecture
+
+💻 Tech Stack
+Languages
+
+Python • JavaScript • Java • C • SQL
+
+Frontend
+
 HTML5 • CSS3 • React.js • Next.js • Tailwind CSS
-Responsive UI • UX-focused design • Dark mode systems
-⚙️ Backend Development
-Flask • Django • REST API Design • Authentication Systems
-🗄️ Databases
-MySQL
-🛠️ Tools
-Git & GitHub 
-Deployment: Vercel • Render
-🧩 Core Competencies
-✅ Full-Stack Application Architecture
-✅ API Development & Integration
-✅ Data Visualization & Analytics Dash­boards
-✅ AI-Powered Features & Automation
-✅ Performance Optimization & Clean Code
-✅ Problem Solving & System Thinking
-💼 Featured Projects
+
+Backend
+
+Flask • Django • REST APIs • Authentication Systems
+
+Databases
+
+MySQL • PostgreSQL
+
+AI & Data
+
+LangChain • OpenAI API • Data Processing • Analytics Pipelines
+
+Tools & Technologies
+
+Git • GitHub • Docker (learning) • Linux • Postman
+Deployment: Vercel • Render • Railway
+
+Methodologies
+
+Agile • Modular Architecture • Clean Code Principles
+
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=shadowblades746&show_icons=true" height="165"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=shadowblades746" height="165"> </p>
+🌟 Featured Projects
 🔹 AI Project Tracker & Analytics Dashboard
-✔ Extracts & processes project data
-✔ Interactive analytics & insights
+
+✔ Automated data extraction & analytics
+✔ Interactive dashboard & insights
 ✔ AI-powered recommendations
+
 Tech: React, Flask, MySQL, AI APIs
+
+🔹 Gamified Mental Wellness Tracker
+
+✔ Habit & mood analytics with gamification
+✔ Visual dashboards & progress tracking
+
+Tech: HTML, CSS, JavaScript, Flask
+
 🔹 Sintra — Video Sharing Platform
-✔ User authentication & uploads
-✔ Search, notifications & UI system
-✔ Modular scalable structure
-📈 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Ramesh1234-ai&show_icons=true&theme=default" height="165"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME" height="165"> </p>
-🧠 Currently Advancing Skills In
+
+✔ Authentication & video uploads
+✔ Search, notifications & modular UI
+
+Tech: React, Flask, REST APIs
+
+🔹 Social Media Platform (Flask)
+
+✔ Secure login & user profiles
+✔ Dynamic content & backend architecture
+
+🧠 Currently Learning
+
+Advanced React & Next.js architecture
+
 Scalable system design
+
+Docker & DevOps workflows
+
 AI agents & automation systems
 
-🎯 Career Goals (2026)
+🎯 Career Focus
 
-✔ Build production-scale AI applications
-✔ Contribute to open source projects
-✔ Master scalable full-stack architecture
-✔ Secure a top software development internship
+✔ Full-Stack Development
+✔ AI-Powered Applications
+✔ Scalable System Design
+✔ Developer Tools & Automation
 
-🏆 Strengths
+🤝 Open to Opportunities
 
-⭐ Fast learner & highly adaptable
-⭐ Strong analytical & problem-solving mindset
-⭐ Passionate builder with real project experience
-⭐ Focused on writing clean & maintainable code
-
-🤝 Let’s Connect
-
-💼 LinkedIn: https://www.linkedin.com/in/rishit-sinha-6953ab363/
-📧 Email: sinharishit04@gmail.com
-🌐 Portfolio: https://stone-age-dev.vercel.app/
-
-💬 Motto
-
-“Build solutions that matter.
+💼 Internships & developer roles
+🤝 Collaborations & open-source projects
+🚀 Innovative tech projects
