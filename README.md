@@ -80,9 +80,7 @@ Open to internships & junior dev roles.
 
 ---
 ## 📊 GitHub Stats
-
 </div>
-
 <div align="center">
   <<br/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=rishit-Sinha10&theme=tokyonight&hide_border=true&background=0D1117&ring=A50044&fire=EDBB00&currStreakLabel=004D98&sideLabels=EDBB00" alt="GitHub streak"/>
@@ -90,16 +88,3 @@ Open to internships & junior dev roles.
   <img src="https://leetcard.jacoblin.cool/Rizz4566?theme=dark&font=Fira+Code&ext=contest" alt="LeetCode stats"/>
 </div>
 ---
-<div align="center">
-```
-┌─────────────────────────────────────────────────────────┐
-│                                                         │
-│   "In football and in code, the best always find       │
-│    a way. Messi never stopped dribbling. I never       │
-│    stop shipping."                                      │
-│                                                         │
-│         🔵🔴  Visca el Barca. Visca Catalunya.  🔴🔵    │
-│              ⭐ いつも前進。Always leveling. ⭐           │
-└─────────────────────────────────────────────────────────┘
-```
-</div>
