@@ -92,6 +92,7 @@ Open to internships & junior dev roles.
   <br/><br/>
   <img src="https://leetcard.jacoblin.cool/Rizz4566?theme=dark&font=Fira+Code&ext=contest" alt="LeetCode stats"/>
 </div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rishit-Sinha10&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 ---
 
