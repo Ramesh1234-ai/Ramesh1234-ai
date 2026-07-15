@@ -1,6 +1,6 @@
 # Rishit Sinha
 
-Frontend Developer Intern (Shopify) at **Tasty Millets** pursuing a B.Tech in Artificial Intelligence & Data Science. I enjoy building full-stack web applications, real-time systems, and developer-focused tools with an emphasis on maintainability, performance, and clean architecture. I'm currently expanding my backend and systems knowledge while building production-ready software.
+I enjoy building full-stack web applications, real-time systems, and developer-focused tools with an emphasis on maintainability, performance, and clean architecture. I'm currently expanding my backend and systems knowledge while building production-ready software.
 
 ---
 ## Current Focus
