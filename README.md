@@ -12,15 +12,22 @@ Full-stack developer focused on building maintainable, performant web applicatio
 ---
 ### Stack
 **Languages** — Java · JavaScript · TypeScript · SQL
+
 **Frontend** — React · Next.js · HTML · CSS · Tailwind CSS · Shopify Liquid
+
 **Backend** — Node.js · Express · Flask · REST APIs
+
 **Databases** — MongoDB · MySQL · Firebase
+
 **DevOps** — Git · GitHub · Docker *(learning)* · GitHub Actions *(learning)*
+
 **Cloud** — AWS *(learning)*
+
 **Tools** — VS Code · Postman · npm
 
 ---
 ### How I Work
+
 - Write clear, maintainable code before optimizing prematurely
 - Design for scalability and simplicity
 - Measure performance rather than assume it
@@ -28,7 +35,9 @@ Full-stack developer focused on building maintainable, performant web applicatio
 - Iterate through feedback and continuous learning
 ---
 ### Exploring
+
 Distributed Systems · Backend Architecture · System Design · Cloud Infrastructure · Performance Optimization · Open Source
+
 ---
 ### Connect
 [Portfolio](https://www.rishitsinha.online) · [LinkedIn](https://linkedin.com/in/rishit-sinha-6953ab363) · [GitHub](https://github.com/Rishit-Sinha10) · [LeetCode](https://leetcode.com/u/rizz4566) · [Email](mailto:sinharishit04@gmail.com)
